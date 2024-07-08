@@ -1,2 +1,2 @@
 # HentaiPuzzleBase
-Base for hentai puzzle base
+Base for hentai puzzle
